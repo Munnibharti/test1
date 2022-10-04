@@ -1,5 +1,5 @@
 hungary=input("are you hungary")
-if hungary=="yes" :
+if hungary=="no" :
     print("Eat Samosa")
 else:
     print("do  your homework");    
